@@ -1,4 +1,4 @@
-# Whisper2me
+# Whisper2me 🤫
 
 ## Overview
 
