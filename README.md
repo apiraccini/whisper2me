@@ -21,7 +21,7 @@ python app.py
 
 ## Notes
 
-In order to utilize the tool, you need to create a `.env` file and store your OpenAI API Key inside!
+In order to utilize the tool, you need to create a `.env` file in the root directory and store your OpenAI API Key inside!
 
 The base version uses the standard API call to whisper for transcription. This allows to use the best version of the model with inference optimized for efficiency. 
 
